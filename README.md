@@ -1,26 +1,16 @@
 # ⚡ Hi. I'm Javier Gómez ⚡
 
+I am a 29 year old boy living in Madrid who loves to spend as much time as possible outside the big cities.
+
+I started my professional career as a motorbike mechanic in a small workshop in Arganda del Rey(Madrid), specifically in [Classicco](http://www.classicco.biz/).
+
+There I was able to grow professionally until I found the limits that my own work put on me. It was there, in [Classicco](http://www.classicco.biz/), that I realised that a comfortable job was not for me, I needed something that would give me continuous challenges, something where I would not stop growing, where continuous training was the order of the day. And after some time thinking and talking with friends from the world, I asked myself, "Why don't you try development?
+
+---
+
 - 🔭 I’m currently working on [Solusoft](https://www.solusoft.es/inicio.aspx).
 - 🌱 I’m currently learning Kotlin and English.
 - ❤️ I love Android.
 - 📫 You can reach me on [Instagram](https://www.instagram.com/wiillyfog/?hl=es).
 - 🎧 Listening to: [Outer Wilds Original Soundtrack](https://www.youtube.com/watch?v=36JtMdp70h0&list=PLer5UtBCZiMxCsYWKiEUXSbMkCETXvl8c)
 - ⚡ Fun fact: climb mountains
-
-
-[![pypi](http://img.shields.io/pypi/v/pyhocon.png)](https://pypi.python.org/pypi/pyhocon)
-
-<!--
-**JavierGF1991/JavierGF1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
