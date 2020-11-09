@@ -1,5 +1,6 @@
-### Hi. I'm Javier Gómez 👋
+# Hi. I'm Javier Gómez 👋
 
+🔭 I’m currently working on [Solusoft](https://www.solusoft.es/inicio.aspx). Psious and Kiko Palomares Academy.
 <!--
 **JavierGF1991/JavierGF1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
