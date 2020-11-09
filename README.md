@@ -1,9 +1,9 @@
-# Hi. I'm Javier Gómez 👋
+#⚡ Hi. I'm Javier Gómez ⚡
 
 - 🔭 I’m currently working on [Solusoft](https://www.solusoft.es/inicio.aspx).
 - 🌱 I’m currently learning Kotlin
 - 📫 You can reach me on [Instagram](https://www.instagram.com/wiillyfog/?hl=es).
-
+- 🎧 Listening to: [Outer Wilds Original Soundtrack](https://www.youtube.com/watch?v=36JtMdp70h0&list=PLer5UtBCZiMxCsYWKiEUXSbMkCETXvl8c
 
 <!--
 **JavierGF1991/JavierGF1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
