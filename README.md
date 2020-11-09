@@ -8,9 +8,9 @@ There I was able to grow professionally until I found the limits that my own wor
 
 
 
-- 🔭 I’m currently working on [Solusoft](https://www.solusoft.es/inicio.aspx) with [GitLab 'Profile'](https://gitlab.com/JGomezFernandez).
+- 🔭 I’m currently working on [Solusoft](https://www.solusoft.es/inicio.aspx) with [GitLab'Profile'](https://gitlab.com/JGomezFernandez).
 - 🌱 I’m currently learning Kotlin and English.
 - ❤️ I love Android.
 - 📫 You can reach me on [Instagram](https://www.instagram.com/wiillyfog/?hl=es).
-- 🎧 Listening to: [Outer Wilds Original Soundtrack](https://www.youtube.com/watch?v=36JtMdp70h0&list=PLer5UtBCZiMxCsYWKiEUXSbMkCETXvl8c)
+- 🎧 Listen with me: [Outer Wilds Original Soundtrack](https://www.youtube.com/watch?v=36JtMdp70h0&list=PLer5UtBCZiMxCsYWKiEUXSbMkCETXvl8c)
 - ⚡ Fun fact: climb mountains
