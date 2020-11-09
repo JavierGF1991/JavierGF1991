@@ -8,7 +8,7 @@ There I was able to grow professionally until I found the limits that my own wor
 
 
 
-- 🔭 I’m currently working on [Solusoft](https://www.solusoft.es/inicio.aspx).
+- 🔭 I’m currently working on [Solusoft](https://www.solusoft.es/inicio.aspx) with [GitLab](https://gitlab.com/JGomezFernandez).
 - 🌱 I’m currently learning Kotlin and English.
 - ❤️ I love Android.
 - 📫 You can reach me on [Instagram](https://www.instagram.com/wiillyfog/?hl=es).
