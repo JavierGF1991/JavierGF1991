@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on [Solusoft](https://www.solusoft.es/inicio.aspx).
 - 🌱 I’m currently learning Kotlin
+- 📫 You can reach me on [Instagram](https://www.instagram.com/wiillyfog/?hl=es).
 
 
 <!--
