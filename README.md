@@ -1,5 +1,4 @@
 <img src="https://github.com/JavierGF1991/JavierGF1991/blob/main/Captura.PNG" alt="drawing"/>
-
 # <h1 align="center">⚡ Hi. I'm Javier Gómez ⚡</h1>
 
 <p style="text-align: justify;" align="center">I am a 29 year old boy living in Madrid who loves to spend as much time as possible outside the big cities.
